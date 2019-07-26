@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pp">
+        <file>照片包/untitled.png</file>
+    </qresource>
+</RCC>

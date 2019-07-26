@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/refix1">
+        <file>picture/TIM图片20190704230405.jpg</file>
+        <file>picture/untitled.png</file>
+    </qresource>
+</RCC>

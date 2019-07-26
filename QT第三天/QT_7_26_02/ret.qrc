@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/untitled.png</file>
+        <file>picture/TIM图片20190704230405.jpg</file>
+    </qresource>
+</RCC>
